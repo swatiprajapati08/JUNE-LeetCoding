@@ -12,6 +12,4 @@ class Solution {
         }
         return dp[amount];
     }
-}Coin Change 2
-
-Solution
+}
