@@ -21,4 +21,28 @@ Day 7: Coin Change 2
 
 Day 8: Power of Two
 
-Day 9:
+Day 9: Is Subsequence  
+
+Day 10: Search Insert Position  
+
+Day 11: Sort Colors  
+
+Day 12: Insert Delete GetRandom O(1)  
+
+Day 13: Largest Divisible Subset  
+
+Day 14: Cheapest Flights Within K Stops
+ 
+Day 15: Search in a Binary Search Tree 
+
+Day 16: Validate IP Address  
+
+Day 17: Surrounded Regions 
+
+Day 18: H-Index II  
+
+Day 19: Longest Duplicate Substring  
+
+Day 20: Permutation Sequence
+
+Day 21: Dungeon Game
