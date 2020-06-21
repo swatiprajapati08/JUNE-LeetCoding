@@ -20,3 +20,5 @@ Day 6: Queue Construction by Height
 Day 7: Coin Change 2
 
 Day 8: Power of Two
+
+Day 9:
