@@ -46,3 +46,19 @@ Day 19: Longest Duplicate Substring
 Day 20: Permutation Sequence
 
 Day 21: Dungeon Game
+
+Day 22: Single Number II  
+
+Day 23: Count Complete Tree Nodes 
+
+Day 24: Unique Binary Search Trees 
+
+Day 25: Find the Duplicate Number  
+
+Day 26: Sum Root to Leaf Numbers 
+
+Day 27: Perfect Squares  
+
+Day 28: Reconstruct Itinerary
+
+Day 29: Unique Paths
