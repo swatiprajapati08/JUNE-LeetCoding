@@ -62,3 +62,13 @@ Day 27: Perfect Squares
 Day 28: Reconstruct Itinerary
 
 Day 29: Unique Paths
+
+Day 30:Word Search 2
+
+
+#Finally Finish :) :) 
+
+![Screenshot (281)](https://user-images.githubusercontent.com/42577922/86149672-ecd24080-bb19-11ea-88b6-7a5912d1abab.png)
+
+
+
